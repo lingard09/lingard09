@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div align="center'>
+<div align="center">
   <img src="./assets/dvlpr_memoji.png" width="256px" alt="dvlpr_memoji" />
 </div>
 
