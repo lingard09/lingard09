@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="../assets/dvlpr_memoji.png" alt="dvlpr_memoji" />
+
 <!--
 **lingard09/lingard09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
