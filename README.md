@@ -8,8 +8,14 @@
   Name: Wonjin Kim
 </div>
 
+<div marin="10%">
+</div>
+
 <div align="center">
-  stack
+  STACK
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
