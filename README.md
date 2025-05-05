@@ -8,11 +8,10 @@
   Name: Wonjin Kim
 </div>
 
-<div marin="10%">
-</div>
+<br>
 
 <div align="center">
-  STACK
+  stack
 </div>
 
 <div align="center">
