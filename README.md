@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  stack
+  Skills
 </div>
 
 <br>
