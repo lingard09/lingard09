@@ -15,7 +15,7 @@
   <br>
 </div>
 
-### <center> sᴋɪʟʟs 🕶️ </center>
+### <center>sᴋɪʟʟs 🕶️</center>
 
 <hr>
 
