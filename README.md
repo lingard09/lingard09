@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div align="center" style="font-family: Courier;" >
+<div align="center" style="font-family: Courier New;" >
   <div>
     <img src="./assets/dvlpr_memoji.png" width="256px" alt="dvlpr_memoji" />
   </div>
