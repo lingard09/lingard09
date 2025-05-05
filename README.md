@@ -14,8 +14,8 @@
   <br>
   <br>
   
-  <div style="font-size:1.2rem">
-    sᴋɪʟʟs 🕶️
+  <div>
+    ### sᴋɪʟʟs 🕶️
   </div>
   
   <div>
