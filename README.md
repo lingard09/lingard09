@@ -4,7 +4,9 @@
   <div>
     <img src="./assets/dvlpr_memoji.png" width="256px" alt="dvlpr_memoji" />
   </div>
-  
+
+### <div align="center">About me 👋</div>
+
   <div>
     ɴᴀᴍᴇ: ᴡᴏɴᴊɪɴ ᴋɪᴍ
     <br>
