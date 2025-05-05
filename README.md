@@ -14,7 +14,7 @@
   <br>
   <br>
   
-  <div>
+  <div style="font-size:1.2rem">
     sᴋɪʟʟs 🕶️
   </div>
   
