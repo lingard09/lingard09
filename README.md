@@ -6,14 +6,15 @@
   </div>
   
   <div>
-    Name: Wonjin Kim
+    ɴᴀᴍᴇ: ᴡᴏɴᴊɪɴ ᴋɪᴍ
+    ʟɪᴋᴇs: ᴡᴀᴛᴄʜɪɴɢ & ᴘʟᴀʏ sᴏᴄᴄᴇʀ ⚽
   </div>
   
   <br>
   <br>
   
   <div>
-    Skills
+    sᴋɪʟʟs 🕶️
   </div>
   
   <div>
