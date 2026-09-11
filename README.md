@@ -25,50 +25,39 @@
 
 <table>
 <tr>
-<td colspan="2">
-
-### 🎭 [모보까 MOBOGGA](https://github.com/MOBOGGA/MOBOGGA_Front) · [🔗 서비스](https://mobogga.netlify.app/)
-
-**공연을 올리는 쪽과 보러 가는 쪽을 한 곳에서 잇는 플랫폼.** 관람객은 공연·행사를 카테고리로 훑고 **회차와 좌석을 골라 예매**하며, 동아리 운영자는 공연·행사·리쿠르팅 공고를 직접 등록하고 **예매자 명단을 관리**합니다. 로그인은 학교 이메일 계정으로만 열어 구성원을 가려냅니다.
-
-`React` `Recoil` `Zustand` · 팀 3명 · **커밋 433 — 팀 내 최다**
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 🍎 [팜사인 FarmSign](https://github.com/LikeLionHGU/HipApple_Front)
+### 🎭 [모보까 MOBOGGA](https://github.com/MOBOGGA/MOBOGGA_Front)
 
-**사과를 가장 잘 팔 수 있는 순간을 알려주는 서비스.** 저장고의 온도 · 습도 · 에틸렌 농도와 7일 도매 시세 예측을 함께 분석해 출하 시점을 추천합니다. 감각에 의존하던 판단을 데이터로 옮겼습니다.
+**공연을 올리는 쪽과 보러 가는 쪽을 잇는 플랫폼.** 관람객은 **회차와 좌석을 골라 예매**하고, 동아리 운영자는 공고를 등록하고 **예매자 명단을 관리**합니다. 학교 이메일 계정으로만 로그인해 구성원을 가려냅니다.
 
-`React` `TypeScript` · HipApple 팀 3명 · 커밋 30
+`React` `Recoil` `Zustand` · 팀 3명 · **커밋 433 (최다)**
 
-[🔗 서비스 바로가기](https://hip-apple.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 💧 [물어볼래](https://github.com/LikeLionHGU/Aewonhaeseo-Front)
-
-**수질 측정 데이터에 말로 묻고 답과 근거를 받는 서비스.** `2026년 1분기 기준 초과 횟수는?` 처럼 물으면 기간 · 지점 · 항목을 문장에서 뽑아 표와 원본 근거로 답합니다.
-
-`Vue 3` `TypeScript` · 팀 2명 · **커밋 53 (최다)**
-
-[🔗 서비스 바로가기](https://aewonhaeseo-front.vercel.app)
+[🔗 서비스 바로가기](https://mobogga.netlify.app/)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🤝 [여러시](https://github.com/Estherdami-cmd/Sharing)
 
-**사진 한 장이면 필요한 곳이 채워집니다.** 기관이 필요량을 먼저 올리면 개인이 그 목표를 나눠 채우는 위시리스트형 나눔 매칭. **Gemini Vision이 사진에서 품목과 유통기한을 읽고**, 나눔 가능 여부는 모델이 아니라 서버 규칙이 판정합니다.
+**사진 한 장이면 필요한 곳이 채워집니다.** 기관이 필요량을 먼저 올리면 개인이 나눠 채우는 위시리스트형 나눔 매칭. **Gemini Vision이 품목과 유통기한을 읽고**, 나눔 가능 여부는 모델이 아니라 서버 규칙이 판정합니다.
 
 `Next.js` `TypeScript` `Gemini` · 팀 6명 · **커밋 88 (최다)**
 
 [🔗 서비스 바로가기](https://sharing-khaki.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐟 [잡어드림](https://github.com/LikeLionHGU/Karina_Front)
+
+**버려지던 혼획물을 자원으로.** 어민이 잡어를 영상으로 올리면 **Vision AI가 어종과 수량을 분류**하고, 그대로 게시물이 되어 기업·연구소가 입찰합니다. 어민에겐 새 수익이, 공장엔 안정적인 원료가 생기는 ESG 서비스입니다.
+
+`React` `TypeScript` `styled-components` · 팀 6명 · 프론트엔드 · 커밋 65
+
+[🔗 서비스 바로가기](https://jabeodream.netlify.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -80,6 +69,30 @@
 `TypeScript` · 팀 4명 · 커밋 58
 
 [🔗 서비스 바로가기](https://bi-sang.pages.dev/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💧 [물어볼래](https://github.com/LikeLionHGU/Aewonhaeseo-Front)
+
+**수질 측정 데이터에 말로 묻고 답과 근거를 받는 서비스.** `2026년 1분기 기준 초과 횟수는?` 처럼 물으면 기간 · 지점 · 항목을 문장에서 뽑아 표와 원본 근거로 답합니다.
+
+`Vue 3` `TypeScript` · 팀 2명 · **커밋 53 (최다)**
+
+[🔗 서비스 바로가기](https://aewonhaeseo-front.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍎 [팜사인 FarmSign](https://github.com/LikeLionHGU/HipApple_Front)
+
+**사과를 가장 잘 팔 수 있는 순간을 알려주는 서비스.** 저장고의 온도 · 습도 · 에틸렌 농도와 7일 도매 시세 예측을 함께 분석해 출하 시점을 추천합니다. 감각에 의존하던 판단을 데이터로 옮겼습니다.
+
+`React` `TypeScript` · HipApple 팀 3명 · 커밋 30
+
+[🔗 서비스 바로가기](https://hip-apple.vercel.app)
 
 </td>
 </tr>
