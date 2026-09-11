@@ -159,6 +159,9 @@
 
 ## 🧩 혼자 만든 것
 
+**🌳 [경제의 숲](https://github.com/lingard09/ForestOfEconomy-Front)** · `HTML` `CSS` `JavaScript` — ✅ **2026 이노테크 지원사업 선정**
+레벨 테스트로 티어를 정하고 매일 퀴즈를 푸는 **경제 학습 플랫폼.** 브론즈부터 챌린저까지 승급하고, 대결과 그룹 랭킹으로 계속 붙잡아 둡니다. **기획 · PM · 프로토타입 디자인 · 프론트엔드**를 맡았습니다. [🔗 서비스 바로가기](https://lingard09.github.io/ForestOfEconomy-Front/index.html)
+
 **📎 [히즈넷 첨부파일 이름 복구](https://github.com/lingard09/HisnetKoreanFileNameFixer)** · `JavaScript`
 `ÇÑ±Û.hwp` 처럼 깨져 내려오던 학교 첨부파일 이름을 **다운로드되는 순간** 되돌리는 브라우저 확장. 크로미움 · 파이어폭스 모두 지원합니다. [→ 만든 이야기](https://lingard09.github.io/hisnet-filename-fixer/)
 
