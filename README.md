@@ -21,56 +21,74 @@
 
 <br />
 
-## 🧩 만든 것
+## 🧑‍🤝‍🧑 팀으로 만든 것
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📎 [히즈넷 첨부파일 이름 복구](https://github.com/lingard09/HisnetKoreanFileNameFixer)
+### 🎭 [모보까 MOBOGGA](https://github.com/MOBOGGA/MOBOGGA_Front)
 
-`ÇÑ±Û.hwp` 처럼 깨져 내려오던 학교 첨부파일 이름을 **다운로드되는 순간** 되돌리는 브라우저 확장. 크로미움 · 파이어폭스 모두 지원합니다.
+공연 · 엔터테인먼트 · 동아리 활동을 한 곳에서 관리하는 통합 플랫폼. 공연 홍보부터 리쿠르팅, 예매까지 잇습니다.
 
-`JavaScript` `Extension`
+`JavaScript` · 팀 3명 · **커밋 433 (최다)**
 
-[→ 만든 이야기](https://lingard09.github.io/hisnet-filename-fixer/)
+[🔗 서비스 바로가기](https://mobogga.netlify.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤝 [Yeoreosi](https://github.com/lingard09/Yeoreosi)
+### 🧘 [Bisang](https://github.com/EEGMeditation-HCI02/Bisang)
 
-기관이 필요량을 먼저 올리고 개인이 사진 한 장으로 **나눠 채우는** 현물 나눔 매칭 서비스. 한 기관이 싹쓸이하던 게시판 방식을 크라우드펀딩식으로 뒤집었습니다.
+**뇌파로 측정하는 명상.** EEG 신호를 읽어 명상 상태를 시각화하는 HCI 프로젝트입니다.
 
-`TypeScript` `Service`
+`TypeScript` · 팀 4명 · 커밋 58
+
+[🔗 서비스 바로가기](https://bi-sang.pages.dev/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📱 [히즈넷 모바일](https://github.com/lingard09/hisnet-mobile)
+### 🏫 [한동대 총동아리연합회 공식사이트](https://github.com/hgu-clubunion/hgu-clubunion-frontend)
 
-모바일 페이지가 없어 데스크톱 화면이 통째로 축소되던 공지 목록을, **폰에서 읽히도록** 다시 그려주는 북마클릿.
+동아리 정보와 공지를 한곳에 모은 총동연 공식 웹사이트. 모보까 팀이 이어서 운영합니다.
 
-`React` `Bookmarklet`
+`JavaScript`
 
-[→ 만든 이야기](https://lingard09.github.io/hisnet-mobile/)
+[🔗 서비스 바로가기](https://hgu-clubunion.pages.dev/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [정적 사이트 구현](https://github.com/lingard09/pl2-website)
+### 🍎 [HipApple](https://github.com/LikeLionHGU/HipApple_Front) · [물어볼래](https://github.com/LikeLionHGU/Aewonhaeseo-Front)
 
-피그마 시안 14장을 **빌드 도구 없이** 구현. 전 페이지를 1920 시안의 폭 비례 축소판으로 만들고, 영상 290MB를 트래픽 한도 안에서 서빙하도록 최적화했습니다.
+멋쟁이사자처럼 한동대에서 팀으로 만든 서비스들. 포항 지역사회를 위한 **HipApple**, 질문을 주고받는 **물어볼래**.
 
-`HTML` `CSS`
+`TypeScript` `Vue` · 커밋 30 · 53
 
-[→ 배포처를 찾아 헤맨 기록](https://lingard09.github.io/video-hosting-detour/)
+[🔗 HipApple](https://hip-apple.vercel.app) · [🔗 물어볼래](https://aewonhaeseo-front.vercel.app)
 
 </td>
 </tr>
 </table>
+
+<br />
+
+## 🧩 혼자 만든 것
+
+**📎 [히즈넷 첨부파일 이름 복구](https://github.com/lingard09/HisnetKoreanFileNameFixer)** · `JavaScript`
+`ÇÑ±Û.hwp` 처럼 깨져 내려오던 학교 첨부파일 이름을 **다운로드되는 순간** 되돌리는 브라우저 확장. 크로미움 · 파이어폭스 모두 지원합니다. [→ 만든 이야기](https://lingard09.github.io/hisnet-filename-fixer/)
+
+**📱 [히즈넷 모바일](https://github.com/lingard09/hisnet-mobile)** · `React`
+모바일 페이지가 없어 데스크톱 화면이 통째로 축소되던 공지 목록을, **폰에서 읽히도록** 다시 그려주는 북마클릿. [→ 만든 이야기](https://lingard09.github.io/hisnet-mobile/)
+
+**🤝 [Yeoreosi](https://github.com/lingard09/Yeoreosi)** · `TypeScript`
+기관이 필요량을 먼저 올리고 개인이 사진 한 장으로 **나눠 채우는** 현물 나눔 매칭 서비스. 한 기관이 싹쓸이하던 게시판 방식을 크라우드펀딩식으로 뒤집었습니다.
+
+**🎬 [정적 사이트 구현](https://github.com/lingard09/pl2-website)** · `HTML` `CSS`
+피그마 시안 14장을 **빌드 도구 없이** 구현. 전 페이지를 1920 시안의 폭 비례 축소판으로 만들고, 영상 290MB를 트래픽 한도 안에서 서빙하도록 최적화했습니다. [→ 배포처를 찾아 헤맨 기록](https://lingard09.github.io/video-hosting-detour/)
 
 <br />
 
