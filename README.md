@@ -1,48 +1,133 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=190&section=header&text=Wonjin%20Kim&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=%EC%93%B0%EB%8B%A4%EA%B0%80%20%EB%B6%88%ED%8E%B8%ED%95%9C%20%EA%B1%B8%20%EB%A7%8C%EB%93%A4%EC%96%B4%EC%84%9C%20%EC%97%86%EC%95%B1%EB%8B%88%EB%8B%A4&descSize=17&descAlignY=56" alt="" />
+
 <div align="center">
-  <img src="./assets/dvlpr_memoji.png" width="180" alt="" />
 
-  ### 김원진 · Wonjin Kim
+<img src="./assets/dvlpr_memoji.png" width="130" alt="" />
 
-  쓰다가 불편한 걸 만들어서 없앱니다.<br />
-  웹을 주로 다루고, 만든 과정은 <a href="https://lingard09.github.io">블로그</a>에 적어둡니다.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=667EEA&center=true&vCenter=true&width=540&lines=%EB%B6%88%ED%8E%B8%ED%95%A8%EC%9D%84%20%EB%8F%84%EA%B5%AC%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EB%8A%94%20%EA%B1%B8%20%EC%A2%8B%EC%95%84%ED%95%A9%EB%8B%88%EB%8B%A4;%EB%A7%8C%EB%93%A0%20%EA%B3%BC%EC%A0%95%EC%9D%80%20%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90%20%EB%82%A8%EA%B9%81%EB%8B%88%EB%8B%A4;Web%20%C2%B7%20Browser%20Extension%20%C2%B7%20Static%20Site" alt="" />
+
+<br />
+
+<a href="https://lingard09.github.io">
+  <img src="https://img.shields.io/badge/Blog-lingard09.github.io-667EEA?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" />
+</a>
+<a href="mailto:kinnwonjin@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </div>
 
 <br />
 
-## 만든 것
+## 🧩 만든 것
 
-**[히즈넷 첨부파일 이름 복구](https://github.com/lingard09/HisnetKoreanFileNameFixer)** · JavaScript
+<table>
+<tr>
+<td width="50%" valign="top">
 
-학교 시스템에서 받은 첨부파일 이름이 `ÇÑ±Û.hwp`처럼 깨지는 문제를, 다운로드되는 순간 되돌리는 브라우저 확장. 크로미움·파이어폭스 둘 다 지원합니다.
+### 📎 [히즈넷 첨부파일 이름 복구](https://github.com/lingard09/HisnetKoreanFileNameFixer)
+
+`ÇÑ±Û.hwp` 처럼 깨져 내려오던 학교 첨부파일 이름을 **다운로드되는 순간** 되돌리는 브라우저 확장. 크로미움 · 파이어폭스 모두 지원합니다.
+
+`JavaScript` `Extension`
+
 [→ 만든 이야기](https://lingard09.github.io/hisnet-filename-fixer/)
 
-**[Yeoreosi](https://github.com/lingard09/Yeoreosi)** · TypeScript
+</td>
+<td width="50%" valign="top">
 
-기관이 "이 물건이 이만큼 필요해요"를 먼저 올리고 개인이 사진 한 장으로 그 목표를 나눠 채우는 현물 나눔 매칭 서비스. 한 기관이 싹쓸이해가는 기존 게시판 방식을 크라우드펀딩식 구조로 뒤집었습니다.
+### 🤝 [Yeoreosi](https://github.com/lingard09/Yeoreosi)
 
-**[히즈넷 모바일](https://github.com/lingard09/hisnet-mobile)** · React
+기관이 필요량을 먼저 올리고 개인이 사진 한 장으로 **나눠 채우는** 현물 나눔 매칭 서비스. 한 기관이 싹쓸이하던 게시판 방식을 크라우드펀딩식으로 뒤집었습니다.
 
-모바일 페이지가 없어 데스크톱 화면이 통째로 축소되던 학교 공지 목록을, 폰에서 읽을 수 있게 다시 그려주는 북마클릿.
+`TypeScript` `Service`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 [히즈넷 모바일](https://github.com/lingard09/hisnet-mobile)
+
+모바일 페이지가 없어 데스크톱 화면이 통째로 축소되던 공지 목록을, **폰에서 읽히도록** 다시 그려주는 북마클릿.
+
+`React` `Bookmarklet`
+
 [→ 만든 이야기](https://lingard09.github.io/hisnet-mobile/)
 
-**[정적 사이트 구현](https://github.com/lingard09/pl2-website)** · HTML · CSS
+</td>
+<td width="50%" valign="top">
 
-피그마 시안 14장을 빌드 도구 없이 구현. 전 페이지를 1920 시안의 폭 비례 축소판으로 만들고, 영상 31개·290MB를 호스팅 일일 트래픽 안에서 서빙하도록 최적화했습니다.
+### 🎬 [정적 사이트 구현](https://github.com/lingard09/pl2-website)
+
+피그마 시안 14장을 **빌드 도구 없이** 구현. 전 페이지를 1920 시안의 폭 비례 축소판으로 만들고, 영상 290MB를 트래픽 한도 안에서 서빙하도록 최적화했습니다.
+
+`HTML` `CSS`
+
 [→ 배포처를 찾아 헤맨 기록](https://lingard09.github.io/video-hosting-detour/)
 
-<br />
-
-## 쓰는 것
-
-<p><img src="https://img.shields.io/badge/JavaScript-20232a?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-20232a?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/HTML5-20232a?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS-20232a?style=flat-square&logo=css&logoColor=1572B6" alt="CSS" /> <img src="https://img.shields.io/badge/Java-20232a?style=flat-square&logo=openjdk&logoColor=ffffff" alt="Java" /> <img src="https://img.shields.io/badge/Python-20232a?style=flat-square&logo=python&logoColor=3776AB" alt="Python" /></p>
+</td>
+</tr>
+</table>
 
 <br />
+
+## 🛠️ 쓰는 것
+
+<div align="center">
+
+**Language**
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff" alt="Java" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" alt="Python" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=fff" alt="CSS" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff" alt="Vite" />
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=fff" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=fff" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=fff" alt="Jekyll" />
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=fff" alt="FFmpeg" />
+
+</div>
+
 <br />
 
-## 쓰는 글
+## 🐍 지나온 자리
 
-[**lingard09.github.io**](https://lingard09.github.io) — 만들면서 막힌 지점과 푼 방법을 남깁니다.
+<div align="center">
 
-- [좌충우돌 대용량 영상 배포기](https://lingard09.github.io/video-hosting-detour/) — 134MB 파일 하나 때문에 배포처를 다섯 곳 검토하고 원점으로
-- [좌충우돌 히즈넷 모바일 버전 만들기](https://lingard09.github.io/hisnet-mobile/)
-- [Floorp 주소창에 붙여넣기가 두 번 되는 문제 잡기](https://lingard09.github.io/floorp-double-paste/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lingard09/lingard09/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lingard09/lingard09/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/lingard09/lingard09/output/snake.svg" alt="" />
+</picture>
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com/?user=lingard09&theme=transparent&hide_border=true&date_format=Y.n.j&ring=667EEA&fire=764BA2&currStreakLabel=667EEA" alt="" />
+
+</div>
+
+<br />
+
+## ✍️ 쓰는 글
+
+만들면서 막힌 지점과 푼 방법을 남깁니다 — [**lingard09.github.io**](https://lingard09.github.io)
+
+| 글 | 한 줄 |
+| --- | --- |
+| [좌충우돌 대용량 영상 배포기](https://lingard09.github.io/video-hosting-detour/) | 134MB 파일 하나로 배포처를 다섯 곳 검토하고 원점으로 |
+| [좌충우돌 히즈넷 모바일 버전 만들기](https://lingard09.github.io/hisnet-mobile/) | 모바일이 없는 학교 시스템을 폰에서 읽게 만들기 |
+| [Floorp 주소창 붙여넣기가 두 번 되는 문제](https://lingard09.github.io/floorp-double-paste/) | 브라우저 버그를 파고들어 원인 찾기 |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764BA2,100:667EEA&height=120&section=footer" alt="" />
