@@ -117,9 +117,9 @@
 <br /><br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lingard09&hide_border=true&date_format=Y.n.j&background=transparent&ring=667EEA&fire=764BA2&currStreakNum=667EEA&currStreakLabel=764BA2&stroke=30363D&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=lingard09&hide_border=true&date_format=Y.n.j&background=transparent&ring=667EEA&fire=764BA2&currStreakNum=667EEA&currStreakLabel=764BA2&stroke=E5E5E5&sideNums=333333&sideLabels=666666&dates=999999" />
-  <img src="https://streak-stats.demolab.com/?user=lingard09&hide_border=true&date_format=Y.n.j&background=transparent&ring=667EEA&fire=764BA2&currStreakNum=667EEA&currStreakLabel=764BA2&stroke=E5E5E5&sideNums=333333&sideLabels=666666&dates=999999" alt="" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lingard09&hide_border=true&disable_animations=true&date_format=Y.n.j&background=transparent&ring=667EEA&fire=764BA2&currStreakNum=667EEA&currStreakLabel=764BA2&stroke=30363D&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=lingard09&hide_border=true&disable_animations=true&date_format=Y.n.j&background=transparent&ring=667EEA&fire=764BA2&currStreakNum=667EEA&currStreakLabel=764BA2&stroke=E5E5E5&sideNums=333333&sideLabels=666666&dates=999999" />
+  <img src="https://streak-stats.demolab.com/?user=lingard09&hide_border=true&disable_animations=true&date_format=Y.n.j&background=transparent&ring=667EEA&fire=764BA2&currStreakNum=667EEA&currStreakLabel=764BA2&stroke=E5E5E5&sideNums=333333&sideLabels=666666&dates=999999" alt="" />
 </picture>
 
 </div>
