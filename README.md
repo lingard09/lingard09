@@ -4,6 +4,8 @@
 
 <img src="./assets/dvlpr_memoji.png" width="130" alt="" />
 
+<br />
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=667EEA&center=true&vCenter=true&width=540&lines=%EB%B6%88%ED%8E%B8%ED%95%A8%EC%9D%84%20%EB%8F%84%EA%B5%AC%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EB%8A%94%20%EA%B1%B8%20%EC%A2%8B%EC%95%84%ED%95%A9%EB%8B%88%EB%8B%A4;%EB%A7%8C%EB%93%A0%20%EA%B3%BC%EC%A0%95%EC%9D%80%20%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90%20%EB%82%A8%EA%B9%81%EB%8B%88%EB%8B%A4;Web%20%C2%B7%20Browser%20Extension%20%C2%B7%20Static%20Site" alt="" />
 
 <br />
@@ -114,7 +116,11 @@
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com/?user=lingard09&theme=transparent&hide_border=true&date_format=Y.n.j&ring=667EEA&fire=764BA2&currStreakLabel=667EEA" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lingard09&hide_border=true&date_format=Y.n.j&background=transparent&ring=667EEA&fire=764BA2&currStreakNum=667EEA&currStreakLabel=764BA2&stroke=30363D&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=lingard09&hide_border=true&date_format=Y.n.j&background=transparent&ring=667EEA&fire=764BA2&currStreakNum=667EEA&currStreakLabel=764BA2&stroke=E5E5E5&sideNums=333333&sideLabels=666666&dates=999999" />
+  <img src="https://streak-stats.demolab.com/?user=lingard09&hide_border=true&date_format=Y.n.j&background=transparent&ring=667EEA&fire=764BA2&currStreakNum=667EEA&currStreakLabel=764BA2&stroke=E5E5E5&sideNums=333333&sideLabels=666666&dates=999999" alt="" />
+</picture>
 
 </div>
 
