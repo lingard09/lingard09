@@ -21,6 +21,18 @@
 
 <br />
 
+## 🏆 수상 · 선정
+
+| | |
+| --- | --- |
+| 🥇 **대상** | 구글 후원 AI커리어스쿨 LAUNCH 창업톤 |
+| 🥇 **대상** | 경북 X AI 문제해결 해커톤 (한동대 산학협력단) |
+| 🥈 **최우수상** | 2025 한동대학교 SW 페스티벌 · SW 전공부문 |
+| 🏅 **장려상** | 업스테이지 주관 AI Agent 해커톤 |
+| ✅ **선정** | 2026 이노테크 지원사업 (경제퀴즈플랫폼) |
+
+<br />
+
 ## 🧑‍🤝‍🧑 팀으로 만든 것
 
 <table>
@@ -125,6 +137,16 @@
 
 <br />
 
+## 💼 경력 · 활동
+
+- **ZCELL** (한동대 교수 창업기업) 인턴 — 풀스택 · 호스팅 · DNS
+- **멋쟁이사자처럼대학 한동대학교 14기 대표** · 프론트엔드 13기 수료
+- 포항YMCA 지원 **학업위기청소년 학습지원 플랫폼** 시제품 제작
+- 경제퀴즈플랫폼 기획 · PM · 디자인 · 퍼블리싱
+- 28사단 정보통신대대 영상음향장비운용병 만기 전역
+
+<br />
+
 ## 🧩 혼자 만든 것
 
 **📎 [히즈넷 첨부파일 이름 복구](https://github.com/lingard09/HisnetKoreanFileNameFixer)** · `JavaScript`
@@ -145,21 +167,48 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff" alt="Java" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" alt="Python" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=fff" alt="C%23" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=fff" alt="Swift" />
 
 **Frontend**
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=fff" alt="CSS" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=fff" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=fff" alt="Vue.js" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff" alt="Vite" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=fff" alt="Electron" />
 
-**Tools**
+**Backend · Data**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=fff" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=fff" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=fff" alt="Firebase" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff" alt="Supabase" />
+
+**Infra · Deploy**
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=fff" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff" alt="Docker" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=fff" alt="Cloudflare" />
-<img src="https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=fff" alt="Jekyll" />
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=fff" alt="FFmpeg" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff" alt="Vercel" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=fff" alt="GitHub Actions" />
+
+**AI · Automation**
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=fff" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=fff" alt="Gemini" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=fff" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=fff" alt="Ollama" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=fff" alt="n8n" />
+
+**Others**
+
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=fff" alt="Unity" />
+<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=fff" alt="ROS2" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=fff" alt="MATLAB" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff" alt="Figma" />
 
 </div>
 
