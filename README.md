@@ -25,17 +25,17 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2">
 
-### 🎭 [모보까 MOBOGGA](https://github.com/MOBOGGA/MOBOGGA_Front)
+### 🎭 [모보까 MOBOGGA](https://github.com/MOBOGGA/MOBOGGA_Front) · [🔗 서비스](https://mobogga.netlify.app/)
 
-공연 · 엔터테인먼트 · 동아리 활동을 한 곳에서 관리하는 통합 플랫폼. 공연 홍보부터 리쿠르팅, 예매까지 잇습니다.
+**공연을 올리는 쪽과 보러 가는 쪽을 한 곳에서 잇는 플랫폼.** 관람객은 공연·행사를 카테고리로 훑고 **회차와 좌석을 골라 예매**하며, 동아리 운영자는 공연·행사·리쿠르팅 공고를 직접 등록하고 **예매자 명단을 관리**합니다. 로그인은 학교 이메일 계정으로만 열어 구성원을 가려냅니다.
 
-`JavaScript` · 팀 3명 · **커밋 433 (최다)**
-
-[🔗 서비스 바로가기](https://mobogga.netlify.app/)
+`React` `Recoil` `Zustand` · 팀 3명 · **커밋 433 — 팀 내 최다**
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🍎 [HipApple](https://github.com/LikeLionHGU/HipApple_Front)
@@ -47,8 +47,6 @@
 [🔗 서비스 바로가기](https://hip-apple.vercel.app)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💧 [물어볼래](https://github.com/LikeLionHGU/Aewonhaeseo-Front)
@@ -58,6 +56,17 @@
 `Vue 3` `TypeScript` · 팀 2명 · **커밋 53 (최다)**
 
 [🔗 서비스 바로가기](https://aewonhaeseo-front.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤝 [여러시 Yeoreosi](https://github.com/lingard09/Yeoreosi)
+
+**사진 한 장으로 기부하는 위시리스트형 나눔 매칭.** 기관이 필요량을 먼저 올리면 개인이 그 목표를 나눠 채웁니다. **Gemini Vision이 사진에서 품목과 유통기한을 읽고**, 나눔 가능 여부는 모델이 아니라 서버 규칙이 판정합니다.
+
+`Next.js` `TypeScript` `Gemini` · 팀 2명
 
 </td>
 <td width="50%" valign="top">
@@ -83,9 +92,6 @@
 
 **📱 [히즈넷 모바일](https://github.com/lingard09/hisnet-mobile)** · `React`
 모바일 페이지가 없어 데스크톱 화면이 통째로 축소되던 공지 목록을, **폰에서 읽히도록** 다시 그려주는 북마클릿. [→ 만든 이야기](https://lingard09.github.io/hisnet-mobile/)
-
-**🤝 [Yeoreosi](https://github.com/lingard09/Yeoreosi)** · `TypeScript`
-기관이 필요량을 먼저 올리고 개인이 사진 한 장으로 **나눠 채우는** 현물 나눔 매칭 서비스. 한 기관이 싹쓸이하던 게시판 방식을 크라우드펀딩식으로 뒤집었습니다.
 
 **🎬 [정적 사이트 구현](https://github.com/lingard09/pl2-website)** · `HTML` `CSS`
 피그마 시안 14장을 **빌드 도구 없이** 구현. 전 페이지를 1920 시안의 폭 비례 축소판으로 만들고, 영상 290MB를 트래픽 한도 안에서 서빙하도록 최적화했습니다. [→ 배포처를 찾아 헤맨 기록](https://lingard09.github.io/video-hosting-detour/)
