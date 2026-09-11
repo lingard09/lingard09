@@ -38,11 +38,11 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🍎 [HipApple](https://github.com/LikeLionHGU/HipApple_Front)
+### 🍎 [팜사인 FarmSign](https://github.com/LikeLionHGU/HipApple_Front)
 
 **사과를 가장 잘 팔 수 있는 순간을 알려주는 서비스.** 저장고의 온도 · 습도 · 에틸렌 농도와 7일 도매 시세 예측을 함께 분석해 출하 시점을 추천합니다. 감각에 의존하던 판단을 데이터로 옮겼습니다.
 
-`React` `TypeScript` · 팀 3명 · 커밋 30
+`React` `TypeScript` · HipApple 팀 3명 · 커밋 30
 
 [🔗 서비스 바로가기](https://hip-apple.vercel.app)
 
@@ -84,6 +84,27 @@
 </td>
 </tr>
 </table>
+
+<br />
+
+## 🔬 연구
+
+### 🦾 뇌파 데이터와 비전 AI를 이용한 로봇팔 제어
+
+**상지 장애인이 뇌 신호만으로 로봇팔을 움직여 물건을 집는 시스템.** P300 기반 BCI로 "어느 물건을 원하는지"를 읽고, YOLO와 Depth 카메라로 "그 물건이 어디 있는지"를 계산해 Unity에서 합친 뒤 로봇팔의 Pick & Place 동작으로 잇습니다.
+
+기존 연구가 의도 인식과 비전 제어를 따로 다루던 것을, **선택 의도를 실제 3차원 좌표와 연결해 파지까지** 하나로 묶었습니다.
+
+| | |
+| --- | --- |
+| 카메라–로봇 좌표 보정 | 대응점 10개 · 최소자승법으로 3×4 아핀 변환 — 평균 오차 **9.4 mm** |
+| EEG 명령 → Unity 응답 | 평균 **8.796 ms** |
+| P300 분류 | Trial Accuracy **0.917** (AUC 0.747) |
+
+`EEG(DSI-24)` `OpenViBE` `MATLAB` `SWLDA` `YOLO` `RealSense Depth` `Unity` `MyCobot 320`
+
+📄 **2026 한국컴퓨터종합학술대회(KCC) 논문집** — 공저자 (과기정통부 SW중심대학사업 · 한국연구재단 지원)
+🎬 **[시연 영상 보기](https://youtu.be/mIUh6lxgHxk)**
 
 <br />
 
