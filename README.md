@@ -38,6 +38,30 @@
 </td>
 <td width="50%" valign="top">
 
+### 🍎 [HipApple](https://github.com/LikeLionHGU/HipApple_Front)
+
+**사과를 가장 잘 팔 수 있는 순간을 알려주는 서비스.** 저장고의 온도 · 습도 · 에틸렌 농도와 7일 도매 시세 예측을 함께 분석해 출하 시점을 추천합니다. 감각에 의존하던 판단을 데이터로 옮겼습니다.
+
+`React` `TypeScript` · 팀 3명 · 커밋 30
+
+[🔗 서비스 바로가기](https://hip-apple.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💧 [물어볼래](https://github.com/LikeLionHGU/Aewonhaeseo-Front)
+
+**수질 측정 데이터에 말로 묻고 답과 근거를 받는 서비스.** `2026년 1분기 기준 초과 횟수는?` 처럼 물으면 기간 · 지점 · 항목을 문장에서 뽑아 표와 원본 근거로 답합니다.
+
+`Vue 3` `TypeScript` · 팀 2명 · **커밋 53 (최다)**
+
+[🔗 서비스 바로가기](https://aewonhaeseo-front.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🧘 [Bisang](https://github.com/EEGMeditation-HCI02/Bisang)
 
 **뇌파로 측정하는 명상.** EEG 신호를 읽어 명상 상태를 시각화하는 HCI 프로젝트입니다.
@@ -45,30 +69,6 @@
 `TypeScript` · 팀 4명 · 커밋 58
 
 [🔗 서비스 바로가기](https://bi-sang.pages.dev/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏫 [한동대 총동아리연합회 공식사이트](https://github.com/hgu-clubunion/hgu-clubunion-frontend)
-
-동아리 정보와 공지를 한곳에 모은 총동연 공식 웹사이트. 모보까 팀이 이어서 운영합니다.
-
-`JavaScript`
-
-[🔗 서비스 바로가기](https://hgu-clubunion.pages.dev/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍎 [HipApple](https://github.com/LikeLionHGU/HipApple_Front) · [물어볼래](https://github.com/LikeLionHGU/Aewonhaeseo-Front)
-
-멋쟁이사자처럼 한동대에서 팀으로 만든 서비스들. 포항 지역사회를 위한 **HipApple**, 질문을 주고받는 **물어볼래**.
-
-`TypeScript` `Vue` · 커밋 30 · 53
-
-[🔗 HipApple](https://hip-apple.vercel.app) · [🔗 물어볼래](https://aewonhaeseo-front.vercel.app)
 
 </td>
 </tr>
