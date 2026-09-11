@@ -116,9 +116,6 @@
 **📱 [히즈넷 모바일](https://github.com/lingard09/hisnet-mobile)** · `React`
 모바일 페이지가 없어 데스크톱 화면이 통째로 축소되던 공지 목록을, **폰에서 읽히도록** 다시 그려주는 북마클릿. [→ 만든 이야기](https://lingard09.github.io/hisnet-mobile/)
 
-**🎬 [정적 사이트 구현](https://github.com/lingard09/pl2-website)** · `HTML` `CSS`
-피그마 시안 14장을 **빌드 도구 없이** 구현. 전 페이지를 1920 시안의 폭 비례 축소판으로 만들고, 영상 290MB를 트래픽 한도 안에서 서빙하도록 최적화했습니다. [→ 배포처를 찾아 헤맨 기록](https://lingard09.github.io/video-hosting-detour/)
-
 <br />
 
 ## 🛠️ 쓰는 것
