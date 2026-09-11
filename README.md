@@ -62,11 +62,13 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤝 [여러시 Yeoreosi](https://github.com/lingard09/Yeoreosi)
+### 🤝 [여러시](https://github.com/Estherdami-cmd/Sharing)
 
-**사진 한 장으로 기부하는 위시리스트형 나눔 매칭.** 기관이 필요량을 먼저 올리면 개인이 그 목표를 나눠 채웁니다. **Gemini Vision이 사진에서 품목과 유통기한을 읽고**, 나눔 가능 여부는 모델이 아니라 서버 규칙이 판정합니다.
+**사진 한 장이면 필요한 곳이 채워집니다.** 기관이 필요량을 먼저 올리면 개인이 그 목표를 나눠 채우는 위시리스트형 나눔 매칭. **Gemini Vision이 사진에서 품목과 유통기한을 읽고**, 나눔 가능 여부는 모델이 아니라 서버 규칙이 판정합니다.
 
-`Next.js` `TypeScript` `Gemini` · 팀 2명
+`Next.js` `TypeScript` `Gemini` · 팀 6명 · **커밋 88 (최다)**
+
+[🔗 서비스 바로가기](https://sharing-khaki.vercel.app)
 
 </td>
 <td width="50%" valign="top">
