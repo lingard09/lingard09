@@ -95,7 +95,7 @@
 
 **수질 측정 데이터에 말로 묻고 답과 근거를 받는 서비스.** `2026년 1분기 기준 초과 횟수는?` 처럼 물으면 기간 · 지점 · 항목을 문장에서 뽑아 표와 원본 근거로 답합니다.
 
-`Vue 3` `TypeScript` · 팀 2명 · **커밋 53 (최다)**
+`Vue 3` `TypeScript` · **커밋 53 (최다)**
 
 [🔗 서비스 바로가기](https://aewonhaeseo-front.vercel.app)
 
@@ -121,7 +121,7 @@
 
 **한국 전통 문화 여행 플랫폼.** 한옥마을·고택·전통 체험을 탐색하고 AI가 짜주는 맞춤 코스로 여정을 계획합니다. **한국관광공사 TourAPI 실데이터** 기반, Cloudflare Functions 프록시로 API 키 보호와 엣지 캐시를 구현했습니다.
 
-`React` `Vite` `Firebase` `Cloudflare Pages` `TourAPI` `OpenAI` · 팀 2명
+`React` `Vite` `Firebase` `Cloudflare Pages` `TourAPI` `OpenAI`
 
 [🔗 서비스 바로가기](https://teoum.pages.dev)
 
