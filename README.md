@@ -52,7 +52,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🤝 [여러시](https://github.com/Estherdami-cmd/Sharing)
+### 🤝 [여러시](https://github.com/lingard09/Yeoreosi)
 
 **사진 한 장이면 필요한 곳이 채워집니다.** 기관이 필요량을 먼저 올리면 개인이 나눠 채우는 위시리스트형 나눔 매칭. **Gemini Vision이 품목과 유통기한을 읽고**, 나눔 가능 여부는 모델이 아니라 서버 규칙이 판정합니다.
 
@@ -158,6 +158,12 @@
 <br />
 
 ## 🧩 혼자 만든 것
+
+**🎨 [PL2 웹사이트](https://github.com/lingard09/pl2-website)** · `HTML` `CSS` `JavaScript`
+크리에이티브 스튜디오를 위한 웹사이트. 빌드 도구 없는 순수 정적 사이트로, **전 페이지를 1920px 시안 폭 비례로 구현**했습니다. [🔗 서비스 바로가기](https://lingard09.github.io/pl2-website/)
+
+**📐 [로지스틱 성장 인터랙티브 시각화](https://github.com/lingard09/biomath-logistic-2d)** · `HTML`
+로지스틱 성장 + 수확 모델의 2차 곡선과 **분기(bifurcation)를 인터랙티브하게 탐색**하는 시각화 도구. 의존성 없는 단일 HTML 파일로 동작합니다. [🔗 바로가기](https://lingard09.github.io/biomath-logistic-2d/)
 
 **🌳 [경제의 숲](https://github.com/lingard09/ForestOfEconomy-Front)** · `HTML` `CSS` `JavaScript` — ✅ **2026 이노테크 지원사업 선정**
 레벨 테스트로 티어를 정하고 매일 퀴즈를 푸는 **경제 학습 플랫폼.** 브론즈부터 챌린저까지 승급하고, 대결과 그룹 랭킹으로 계속 붙잡아 둡니다. **기획 · PM · 프로토타입 디자인 · 프론트엔드**를 맡았습니다. [🔗 서비스 바로가기](https://lingard09.github.io/ForestOfEconomy-Front/index.html)
