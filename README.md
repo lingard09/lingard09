@@ -159,6 +159,9 @@
 
 ## 🧩 혼자 만든 것
 
+**🏯 [터움 (Teoum)](https://github.com/lingard09/teoum)** · `React` `Vite` `Firebase` `Cloudflare Pages`
+한옥마을·고택·전통 체험을 탐색하고 AI가 짜주는 맞춤 코스로 여정을 계획하는 플랫폼. 한국관광공사 TourAPI 실데이터 기반, Cloudflare Functions 프록시로 API 키 보호와 엣지 캐시 구현. [🔗 서비스 바로가기](https://teoum.pages.dev)
+
 **🎨 [PL2 웹사이트](https://github.com/lingard09/pl2-website)** · `HTML` `CSS` `JavaScript`
 크리에이티브 스튜디오를 위한 웹사이트. 빌드 도구 없는 순수 정적 사이트로, **전 페이지를 1920px 시안 폭 비례로 구현**했습니다. [🔗 서비스 바로가기](https://lingard09.github.io/pl2-website/)
 
