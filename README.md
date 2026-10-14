@@ -52,7 +52,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🤝 [여러시](https://github.com/lingard09/Yeoreosi)
+### 🤝 [여러시](https://github.com/Estherdami-cmd/Sharing)
 
 **사진 한 장이면 필요한 곳이 채워집니다.** 기관이 필요량을 먼저 올리면 개인이 나눠 채우는 위시리스트형 나눔 매칭. **Gemini Vision이 품목과 유통기한을 읽고**, 나눔 가능 여부는 모델이 아니라 서버 규칙이 판정합니다.
 
