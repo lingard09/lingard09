@@ -169,10 +169,14 @@ P300 기반 BCI로 선택한 객체를 YOLO·Depth 카메라의 3차원 좌표�
 
 ## 🧰 작게 만들고, 꾸준히 기록해요
 
-최근에는 문서 작성과 원어 학습처럼, 직접 필요했던 도구들을 만들고 있어요.
+최근에는 철학·교회사·CS·상식 퀴즈부터 문서 작성과 원어 학습까지, 직접 쓰고 싶은 학습 서비스와 도구들을 만들고 있어요.
 
 | 프로젝트 | 이렇게 쓰여요 | 기술 · 링크 |
 | --- | --- | --- |
+| 🏛️ **철학 퀴즈** | 철학자의 생각을 읽고, 질문·선택·즉시 피드백으로 이어가는 모바일 학습 | `HTML` `CSS` `JavaScript` · [서비스](https://philosophy-app-gilt.vercel.app/) |
+| ⛪ **교회사 퀴즈** | 배경 이야기와 퀴즈·해설로 배우는 교회사, 진도 저장과 오답 복습 | `Next.js` `TypeScript` · [서비스](https://church-history-quiz.vercel.app/) |
+| 💬 **CS 퀴즈 · 면접 연습** | CS 문항을 풀며 약한 문항부터 복습하고, 일일 목표와 단원별 진도를 확인 | `Next.js` `TypeScript` · [서비스](https://cs-interview-practice.vercel.app/) |
+| 💡 **상식 퀴즈** | 심리학·철학·과학의 현상을 읽고 개념을 맞히는 퀴즈, 해설·출처와 분야별 결과 제공 | `Next.js` `Supabase` · [서비스](https://knowledge-quiz-delta.vercel.app/) |
 | 📖 **원문 · 성경 원어 검색** | 성경 원문·발음·용례 검색부터 간격 반복 단어 학습까지 | `JavaScript` `Cloudflare Workers` · [서비스](https://lingard09.github.io/bible-original/) · [코드](https://github.com/lingard09/bible-original) |
 | 📄 **검수확인서 만들기** | 내용과 증빙사진을 넣으면 원본 양식에 맞는 HWPX 문서를 브라우저에서 생성 | `JavaScript` `JSZip` `Python` · [코드](https://github.com/lingard09/hwpx-inspection-form) |
 | 🎮 **오버워치 영웅 관리** | 영웅 등록·조회 웹 화면과 CRUD·이름 검색 REST API를 만든 학습 프로젝트 | `Java` `Spring Boot` `Thymeleaf` · [웹 코드](https://github.com/lingard09/my_hero_webui) · [API 코드](https://github.com/lingard09/my_heroapi_project) |
