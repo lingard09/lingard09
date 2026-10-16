@@ -1,5 +1,26 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=190&section=header&text=Wonjin%20Kim&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=%EC%93%B0%EB%8B%A4%EA%B0%80%20%EB%B6%88%ED%8E%B8%ED%95%9C%20%EA%B1%B8%20%EB%A7%8C%EB%93%A4%EC%96%B4%EC%84%9C%20%EC%97%86%EC%95%B1%EB%8B%88%EB%8B%A4&descSize=17&descAlignY=56" alt="" />
 
+<div align="center">
+
+<img src="./assets/dvlpr_memoji.png" width="130" alt="" />
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=667EEA&center=true&vCenter=true&width=540&lines=%EB%B6%88%ED%8E%B8%ED%95%A8%EC%9D%84%20%EB%8F%84%EA%B5%AC%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EB%8A%94%20%EA%B1%B8%20%EC%A2%8B%EC%95%84%ED%95%A9%EB%8B%88%EB%8B%A4;%EB%A7%8C%EB%93%A0%20%EA%B3%BC%EC%A0%95%EC%9D%80%20%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90%20%EB%82%A8%EA%B9%81%EB%8B%88%EB%8B%A4;Web%20%C2%B7%20Browser%20Extension%20%C2%B7%20Static%20Site" alt="" />
+
+<br />
+
+<a href="https://lingard09.github.io">
+  <img src="https://img.shields.io/badge/Blog-lingard09.github.io-667EEA?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" />
+</a>
+<a href="mailto:kinnwonjin@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+<br />
+
 # 김원진 · Wonjin Kim
 
 **생활 속 불편을 웹 서비스와 브라우저 도구로 해결합니다.**
@@ -8,82 +29,100 @@ React·TypeScript를 중심으로 웹 서비스를 만들고, AI·뇌파·로봇
 
 [블로그](https://lingard09.github.io) · [이메일](mailto:kinnwonjin@gmail.com) · [프로젝트 전체 목록](https://lingard09.github.io/project/)
 
-## 대표 팀 프로젝트
+## 🧑‍🤝‍🧑 대표 팀 프로젝트
 
-### 1. 모보까 · 공연 예매 플랫폼
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://mobogga.netlify.app/"><img src="./assets/projects/mobogga.png" width="100%" alt="모보까 서비스 대표 화면" /></a>
+<h3><a href="https://github.com/MOBOGGA/MOBOGGA_Front">모보까</a></h3>
+<p>공연 예매 플랫폼</p>
+<p><strong>🥈 SW 페스티벌 최우수상</strong></p>
+<p><strong>담당</strong><br />로그인·인증 · 마이페이지 · 관리자 화면</p>
+<p>예매 후 송금 안내·앱 연결·카카오톡 공유를 구현하고, SDK 로딩·오류 상태를 처리했습니다.</p>
+<p><code>React · Recoil · Zustand</code></p>
+<p><a href="https://mobogga.netlify.app/">서비스 ↗</a> · <a href="https://github.com/MOBOGGA/MOBOGGA_Front">코드 ↗</a></p>
+<details>
+<summary>구현 근거 보기</summary>
+<ul><li><a href="https://github.com/MOBOGGA/MOBOGGA_Front/commit/cd1d13a3e6">관리자·마이페이지</a></li><li><a href="https://github.com/MOBOGGA/MOBOGGA_Front/commit/abc6b7dd60">송금·공유 개선</a></li></ul>
+</details>
+</td>
+<td width="50%" valign="top">
+<a href="https://sharing-khaki.vercel.app"><img src="./assets/projects/sharing.png" width="100%" alt="여러시 서비스 대표 화면" /></a>
+<h3><a href="https://github.com/Estherdami-cmd/Sharing">여러시</a></h3>
+<p>사진으로 연결하는 나눔 매칭</p>
 
-공연 동아리와 관람객을 연결해 예매와 운영자 관리를 제공하는 서비스입니다.
+<p><strong>담당</strong><br />사진 인식 API · 유통기한 검증 · 품목 매칭</p>
+<p>‘기한 없음’과 ‘판독 실패’를 분리해 추가 입력을 받고, AI 일반명과 문자열 규칙으로 품목을 매칭했습니다.</p>
+<p><code>Next.js · TypeScript · OpenAI</code></p>
+<p><a href="https://sharing-khaki.vercel.app">서비스 ↗</a> · <a href="https://github.com/Estherdami-cmd/Sharing">코드 ↗</a></p>
+<details>
+<summary>구현 근거 보기</summary>
+<ul><li><a href="https://github.com/Estherdami-cmd/Sharing/commit/12678ff6e7">날짜 판독 개선</a></li><li><a href="https://github.com/Estherdami-cmd/Sharing/commit/3e8a32df49">품목 매칭 개선</a></li></ul>
+</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://jabeodream.netlify.app/"><img src="./assets/projects/jabeodream.png" width="100%" alt="잡어드림 서비스 대표 화면" /></a>
+<h3><a href="https://github.com/LikeLionHGU/Karina_Front">잡어드림</a></h3>
+<p>혼획물을 자원으로 잇는 거래 서비스</p>
+<p><strong>🥇 AI커리어스쿨 LAUNCH 창업톤 대상</strong></p>
+<p><strong>담당</strong><br />역할별 홈 · 거래·매칭 화면 · API 연동</p>
+<p>어민·공장별 화면과 메뉴를 분리하고, 거래 관리와 토큰 만료·로그아웃 예외 처리를 연결했습니다.</p>
+<p><code>React · TypeScript · styled-components</code></p>
+<p><a href="https://jabeodream.netlify.app/">서비스 ↗</a> · <a href="https://github.com/LikeLionHGU/Karina_Front">코드 ↗</a></p>
+<details>
+<summary>구현 근거 보기</summary>
+<ul><li><a href="https://github.com/LikeLionHGU/Karina_Front/commit/691438c5ec">역할별 화면·API</a></li><li><a href="https://github.com/LikeLionHGU/Karina_Front/pull/47">토큰 만료 처리</a></li></ul>
+</details>
+</td>
+<td width="50%" valign="top">
+<a href="https://bi-sang.pages.dev/"><img src="./assets/projects/bisang.png" width="100%" alt="Bisang 서비스 대표 화면" /></a>
+<h3><a href="https://github.com/EEGMeditation-HCI02/Bisang">Bisang</a></h3>
+<p>뇌파·자세 정보로 돌아보는 명상</p>
 
-- **담당:** 로그인·인증, 마이페이지·개인정보 수정, 관리자용 공연·행사·모집·예매자 관리 화면.
-- **구현:** Google 로그인과 백엔드를 연결하고, 예매 후 송금 안내·모바일 송금 앱 연결·카카오톡 공유를 구현했습니다.
-- **문제 해결:** 공유 SDK의 로딩·오류 상태에 따라 버튼을 제어하고, 공유 내용에 공연별 계좌·예금주·금액을 연결했습니다.
+<p><strong>담당</strong><br />장비 연결 · 뇌파 파싱 · 자세 분석·리포트</p>
+<p>고빈도 원시 패킷 대신 필요한 지표 수신 시 차트를 갱신하도록 바꾸고, 세션 분석 결과를 리포트에 연결했습니다.</p>
+<p><code>React · TypeScript · Web Serial · MediaPipe</code></p>
+<p><a href="https://bi-sang.pages.dev/">서비스 ↗</a> · <a href="https://github.com/EEGMeditation-HCI02/Bisang">코드 ↗</a></p>
+<details>
+<summary>구현 근거 보기</summary>
+<ul><li><a href="https://github.com/EEGMeditation-HCI02/Bisang/pull/40">장비 연결 구현</a></li><li><a href="https://github.com/EEGMeditation-HCI02/Bisang/commit/6ebecc9004">차트 갱신 개선</a></li></ul>
+</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://aewonhaeseo-front.vercel.app"><img src="./assets/projects/mulleobollae.png" width="100%" alt="물어볼래 서비스 대표 화면" /></a>
+<h3><a href="https://github.com/LikeLionHGU/Aewonhaeseo-Front">물어볼래</a></h3>
+<p>질문에서 원본 근거까지, 수질 데이터 분석</p>
 
-**최우수상** · 2025 한동대 SW 페스티벌 SW 전공부문
-`React` `Recoil` `Zustand`
-
-[코드](https://github.com/MOBOGGA/MOBOGGA_Front) · [서비스](https://mobogga.netlify.app/) · [관리자·마이페이지 구현](https://github.com/MOBOGGA/MOBOGGA_Front/commit/cd1d13a3e6) · [송금·공유 개선](https://github.com/MOBOGGA/MOBOGGA_Front/commit/abc6b7dd60)
-
-### 2. 여러시 · 위시리스트형 나눔 매칭
-
-기관이 등록한 필요 물품과 개인의 나눔을 사진 인식·품목 매칭으로 연결하는 서비스입니다.
-
-- **담당:** 사진 인식 API 연동, 유통기한 판독·검증, AI 일반명과 문자열 규칙을 결합한 품목 매칭.
-- **구현:** 사진 인식을 Gemini에서 OpenAI로 전환하고, 모델의 판독 결과와 서버의 나눔 가능 여부 판정을 분리했습니다.
-- **문제 해결:** 날짜를 못 읽은 물품이 ‘기한 없음’으로 통과하던 문제를 판독·없음·미확인 상태로 나눠 처리하고, 미확인 상태에는 추가 입력을 요구했습니다.
-
-`Next.js` `TypeScript` `OpenAI` `Firebase`
-
-[코드](https://github.com/Estherdami-cmd/Sharing) · [서비스](https://sharing-khaki.vercel.app) · [날짜 판독 개선](https://github.com/Estherdami-cmd/Sharing/commit/12678ff6e7) · [품목 매칭 개선](https://github.com/Estherdami-cmd/Sharing/commit/3e8a32df49)
-
-### 3. 잡어드림 · 혼획물 거래 서비스
-
-영상에서 분류한 혼획물 정보를 어민과 기업·연구소의 거래로 연결하는 서비스입니다.
-
-- **담당:** 인증·역할별 홈, 거래 상세·매칭·요청·게시물 수정·프로필 화면과 API 연동.
-- **구현:** 어민·공장별 홈과 메뉴를 분리하고, 거래 과정의 확인·취소·오류 모달을 구현했습니다.
-- **문제 해결:** 토큰 유무·만료 검사와 로그아웃 처리를 관련 화면에 연결해 인증 예외 상황을 처리했습니다.
-
-**대상** · 구글 후원 AI커리어스쿨 LAUNCH 창업톤
-`React` `TypeScript` `styled-components`
-
-[코드](https://github.com/LikeLionHGU/Karina_Front) · [서비스](https://jabeodream.netlify.app/) · [역할별 화면·API 연동](https://github.com/LikeLionHGU/Karina_Front/commit/691438c5ec) · [토큰 만료 처리](https://github.com/LikeLionHGU/Karina_Front/pull/47)
-
-### 4. Bisang · EEG 기반 명상 서비스
-
-뇌파와 자세 정보를 바탕으로 명상 상태를 시각화하고 세션 리포트를 제공하는 서비스입니다.
-
-- **담당:** MindWave 패킷 파서·Web Serial 연결, 실시간 차트, 자세·눈 감음 분석과 세션 리포트 연동.
-- **구현:** 장비 연결·해제와 데모 모드를 구성하고, 분석 결과를 세션 상태와 리포트 화면에 연결했습니다.
-- **문제 해결:** 고빈도 원시 뇌파 패킷으로 불필요하게 갱신되던 화면을 지표 패킷 중심으로 바꾸고, 차트는 집중·명상 지표 수신 시 갱신하도록 수정했습니다.
-
-`React` `TypeScript` `Web Serial` `MediaPipe` `Zustand`
-
-[코드](https://github.com/EEGMeditation-HCI02/Bisang) · [서비스](https://bi-sang.pages.dev/) · [장비 연결 구현](https://github.com/EEGMeditation-HCI02/Bisang/pull/40) · [차트 갱신 개선](https://github.com/EEGMeditation-HCI02/Bisang/commit/6ebecc9004)
-
-### 5. 물어볼래 · 수질 데이터 분석
-
-질문에서 분석 조건을 추출하고 수질 측정 데이터와 원본 근거를 조회하는 서비스입니다.
-
-- **담당:** 타입 기반 API 클라이언트, 규칙 기반 질문 파서, 인증·세션 연동과 배포 프록시.
-- **구현:** 서버에 실제로 존재하는 지점·항목을 기준으로 질문을 해석하고, 추출한 조건을 사용자가 확인·수정하도록 연결했습니다.
-- **문제 해결:** 배포 환경에서 API 대신 HTML이 반환되던 문제를 프록시·라우팅 수정과 JSON 응답 검증으로 처리했습니다.
-
-`Vue 3` `TypeScript` `Vercel` `Cloudflare Pages`
-
-[코드](https://github.com/LikeLionHGU/Aewonhaeseo-Front) · [서비스](https://aewonhaeseo-front.vercel.app) · [질문 파서 구현](https://github.com/LikeLionHGU/Aewonhaeseo-Front/commit/34e469bee6) · [배포 API 연동 수정](https://github.com/LikeLionHGU/Aewonhaeseo-Front/pull/7)
-
-### 6. 팜사인 · 사과 출하 의사결정 지원
-
-저장고 센서 데이터와 도매 시세 예측을 활용해 사과 출하 시점을 추천하는 서비스입니다.
-
-- **담당:** 로그인·농가 정보 입력·시장가격 화면과 시세 예측 API 연동.
-- **구현:** 시장·품종별 실제 시세와 7일 예측·예측 범위를 실선·점선·음영으로 구분한 차트를 구현했습니다.
-- **문제 해결:** 로그인 전 선택에 의존하던 이동 경로를 인증 응답의 신규 회원 여부로 판단하도록 바꿔, 농가 정보 입력과 저장고 현황으로 분기했습니다.
-
-**대상** · 경북 X AI 문제해결 해커톤
-`React` `TypeScript` `SVG`
-
-[코드](https://github.com/LikeLionHGU/HipApple_Front) · [서비스](https://hip-apple.vercel.app) · [로그인 후 분기 수정](https://github.com/LikeLionHGU/HipApple_Front/pull/34) · [시세 예측·차트 구현](https://github.com/LikeLionHGU/HipApple_Front/commit/b9b4ddba1d)
+<p><strong>담당</strong><br />API 클라이언트 · 질문 파서 · 인증·배포 연동</p>
+<p>질문을 분석 조건으로 변환하고, 배포 환경에서 API 대신 HTML이 반환되던 문제를 프록시와 응답 검증으로 처리했습니다.</p>
+<p><code>Vue 3 · TypeScript · Vercel · Cloudflare</code></p>
+<p><a href="https://aewonhaeseo-front.vercel.app">서비스 ↗</a> · <a href="https://github.com/LikeLionHGU/Aewonhaeseo-Front">코드 ↗</a></p>
+<details>
+<summary>구현 근거 보기</summary>
+<ul><li><a href="https://github.com/LikeLionHGU/Aewonhaeseo-Front/commit/34e469bee6">질문 파서 구현</a></li><li><a href="https://github.com/LikeLionHGU/Aewonhaeseo-Front/pull/7">배포 API 연동</a></li></ul>
+</details>
+</td>
+<td width="50%" valign="top">
+<a href="https://hip-apple.vercel.app"><img src="./assets/projects/farmsign.png" width="100%" alt="팜사인 서비스 대표 화면" /></a>
+<h3><a href="https://github.com/LikeLionHGU/HipApple_Front">팜사인</a></h3>
+<p>데이터로 판단하는 사과 출하 시점</p>
+<p><strong>🥇 경북 X AI 문제해결 해커톤 대상</strong></p>
+<p><strong>담당</strong><br />로그인·가입 분기 · 시장가격·예측 차트</p>
+<p>신규 회원 여부에 따라 이동 경로를 분기하고, 실제 시세·7일 예측·예측 범위를 구분해 시각화했습니다.</p>
+<p><code>React · TypeScript · SVG</code></p>
+<p><a href="https://hip-apple.vercel.app">서비스 ↗</a> · <a href="https://github.com/LikeLionHGU/HipApple_Front">코드 ↗</a></p>
+<details>
+<summary>구현 근거 보기</summary>
+<ul><li><a href="https://github.com/LikeLionHGU/HipApple_Front/pull/34">로그인 후 분기</a></li><li><a href="https://github.com/LikeLionHGU/HipApple_Front/commit/b9b4ddba1d">시세 예측·차트</a></li></ul>
+</details>
+</td>
+</tr>
+</table>
 
 ## 수상 · 경력
 
@@ -183,3 +222,28 @@ P300 기반 BCI로 선택한 객체를 YOLO·Depth 카메라의 3차원 좌표�
 [프로젝트 전체 목록](https://lingard09.github.io/project/)
 
 </details>
+
+## 🐍 지나온 자리
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lingard09/lingard09/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lingard09/lingard09/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/lingard09/lingard09/output/snake.svg" alt="" />
+</picture>
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lingard09&hide_border=true&disable_animations=true&date_format=Y.n.j&background=transparent&ring=667EEA&fire=764BA2&currStreakNum=667EEA&currStreakLabel=764BA2&stroke=30363D&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=lingard09&hide_border=true&disable_animations=true&date_format=Y.n.j&background=transparent&ring=667EEA&fire=764BA2&currStreakNum=667EEA&currStreakLabel=764BA2&stroke=E5E5E5&sideNums=333333&sideLabels=666666&dates=999999" />
+  <img src="https://streak-stats.demolab.com/?user=lingard09&hide_border=true&disable_animations=true&date_format=Y.n.j&background=transparent&ring=667EEA&fire=764BA2&currStreakNum=667EEA&currStreakLabel=764BA2&stroke=E5E5E5&sideNums=333333&sideLabels=666666&dates=999999" alt="" />
+</picture>
+
+</div>
+
+<br />
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764BA2,100:667EEA&height=120&section=footer" alt="" />
