@@ -21,43 +21,43 @@
 
 <br />
 
-# 김원진 · Wonjin Kim
+# 👋 안녕하세요, 김원진입니다
 
-**생활 속 불편을 웹 서비스와 브라우저 도구로 해결합니다.**
+**✨ 일상의 작은 불편을, 직접 만든 서비스로 바꿉니다.**
 
-React·TypeScript를 중심으로 웹 서비스를 만들고, AI·뇌파·로봇 등 다른 시스템과 연결하는 작업에도 참여했습니다. 만든 과정에서 부딪힌 문제와 해결 방법은 블로그에 기록합니다.
+React·TypeScript로 웹 서비스를 만들어요. AI·뇌파·로봇과 웹을 연결하는 일도 좋아합니다. 만들면서 부딪힌 문제와 해결 과정은 블로그에 차곡차곡 기록해요.
 
 [블로그](https://lingard09.github.io) · [이메일](mailto:kinnwonjin@gmail.com) · [프로젝트 전체 목록](https://lingard09.github.io/project/)
 
-## 🧑‍🤝‍🧑 대표 팀 프로젝트
+## 🚀 함께 만든 대표 프로젝트
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <a href="https://mobogga.netlify.app/"><img src="./assets/projects/mobogga.png" width="100%" alt="모보까 서비스 대표 화면" /></a>
-<h3><a href="https://github.com/MOBOGGA/MOBOGGA_Front">모보까</a></h3>
+<h3><a href="https://github.com/MOBOGGA/MOBOGGA_Front">🎟️ 모보까</a></h3>
 <p>공연 예매 플랫폼</p>
 <p><strong>🥈 SW 페스티벌 최우수상</strong></p>
-<p><strong>담당</strong><br />로그인·인증 · 마이페이지 · 관리자 화면</p>
+<p><strong>🛠️ 제가 맡았어요</strong><br />로그인·인증 · 마이페이지 · 관리자 화면</p>
 <p>예매 후 송금 안내·앱 연결·카카오톡 공유를 구현하고, SDK 로딩·오류 상태를 처리했습니다.</p>
 <p><code>React · Recoil · Zustand</code></p>
-<p><a href="https://mobogga.netlify.app/">서비스 ↗</a> · <a href="https://github.com/MOBOGGA/MOBOGGA_Front">코드 ↗</a></p>
+<p><a href="https://mobogga.netlify.app/">🌐 서비스 ↗</a> · <a href="https://github.com/MOBOGGA/MOBOGGA_Front">💻 코드 ↗</a></p>
 <details>
-<summary>구현 근거 보기</summary>
+<summary>🔎 코드로 보는 작업 기록</summary>
 <ul><li><a href="https://github.com/MOBOGGA/MOBOGGA_Front/commit/cd1d13a3e6">관리자·마이페이지</a></li><li><a href="https://github.com/MOBOGGA/MOBOGGA_Front/commit/abc6b7dd60">송금·공유 개선</a></li></ul>
 </details>
 </td>
 <td width="50%" valign="top">
 <a href="https://sharing-khaki.vercel.app"><img src="./assets/projects/sharing.png" width="100%" alt="여러시 서비스 대표 화면" /></a>
-<h3><a href="https://github.com/Estherdami-cmd/Sharing">여러시</a></h3>
+<h3><a href="https://github.com/Estherdami-cmd/Sharing">🤝 여러시</a></h3>
 <p>사진으로 연결하는 나눔 매칭</p>
 
-<p><strong>담당</strong><br />사진 인식 API · 유통기한 검증 · 품목 매칭</p>
+<p><strong>🛠️ 제가 맡았어요</strong><br />사진 인식 API · 유통기한 검증 · 품목 매칭</p>
 <p>‘기한 없음’과 ‘판독 실패’를 분리해 추가 입력을 받고, AI 일반명과 문자열 규칙으로 품목을 매칭했습니다.</p>
 <p><code>Next.js · TypeScript · OpenAI</code></p>
-<p><a href="https://sharing-khaki.vercel.app">서비스 ↗</a> · <a href="https://github.com/Estherdami-cmd/Sharing">코드 ↗</a></p>
+<p><a href="https://sharing-khaki.vercel.app">🌐 서비스 ↗</a> · <a href="https://github.com/Estherdami-cmd/Sharing">💻 코드 ↗</a></p>
 <details>
-<summary>구현 근거 보기</summary>
+<summary>🔎 코드로 보는 작업 기록</summary>
 <ul><li><a href="https://github.com/Estherdami-cmd/Sharing/commit/12678ff6e7">날짜 판독 개선</a></li><li><a href="https://github.com/Estherdami-cmd/Sharing/commit/3e8a32df49">품목 매칭 개선</a></li></ul>
 </details>
 </td>
@@ -65,29 +65,29 @@ React·TypeScript를 중심으로 웹 서비스를 만들고, AI·뇌파·로봇
 <tr>
 <td width="50%" valign="top">
 <a href="https://jabeodream.netlify.app/"><img src="./assets/projects/jabeodream.png" width="100%" alt="잡어드림 서비스 대표 화면" /></a>
-<h3><a href="https://github.com/LikeLionHGU/Karina_Front">잡어드림</a></h3>
+<h3><a href="https://github.com/LikeLionHGU/Karina_Front">🐟 잡어드림</a></h3>
 <p>혼획물을 자원으로 잇는 거래 서비스</p>
 <p><strong>🥇 AI커리어스쿨 LAUNCH 창업톤 대상</strong></p>
-<p><strong>담당</strong><br />역할별 홈 · 거래·매칭 화면 · API 연동</p>
+<p><strong>🛠️ 제가 맡았어요</strong><br />역할별 홈 · 거래·매칭 화면 · API 연동</p>
 <p>어민·공장별 화면과 메뉴를 분리하고, 거래 관리와 토큰 만료·로그아웃 예외 처리를 연결했습니다.</p>
 <p><code>React · TypeScript · styled-components</code></p>
-<p><a href="https://jabeodream.netlify.app/">서비스 ↗</a> · <a href="https://github.com/LikeLionHGU/Karina_Front">코드 ↗</a></p>
+<p><a href="https://jabeodream.netlify.app/">🌐 서비스 ↗</a> · <a href="https://github.com/LikeLionHGU/Karina_Front">💻 코드 ↗</a></p>
 <details>
-<summary>구현 근거 보기</summary>
+<summary>🔎 코드로 보는 작업 기록</summary>
 <ul><li><a href="https://github.com/LikeLionHGU/Karina_Front/commit/691438c5ec">역할별 화면·API</a></li><li><a href="https://github.com/LikeLionHGU/Karina_Front/pull/47">토큰 만료 처리</a></li></ul>
 </details>
 </td>
 <td width="50%" valign="top">
 <a href="https://bi-sang.pages.dev/"><img src="./assets/projects/bisang.png" width="100%" alt="Bisang 서비스 대표 화면" /></a>
-<h3><a href="https://github.com/EEGMeditation-HCI02/Bisang">Bisang</a></h3>
+<h3><a href="https://github.com/EEGMeditation-HCI02/Bisang">🧘 Bisang</a></h3>
 <p>뇌파·자세 정보로 돌아보는 명상</p>
 
-<p><strong>담당</strong><br />장비 연결 · 뇌파 파싱 · 자세 분석·리포트</p>
+<p><strong>🛠️ 제가 맡았어요</strong><br />장비 연결 · 뇌파 파싱 · 자세 분석·리포트</p>
 <p>고빈도 원시 패킷 대신 필요한 지표 수신 시 차트를 갱신하도록 바꾸고, 세션 분석 결과를 리포트에 연결했습니다.</p>
 <p><code>React · TypeScript · Web Serial · MediaPipe</code></p>
-<p><a href="https://bi-sang.pages.dev/">서비스 ↗</a> · <a href="https://github.com/EEGMeditation-HCI02/Bisang">코드 ↗</a></p>
+<p><a href="https://bi-sang.pages.dev/">🌐 서비스 ↗</a> · <a href="https://github.com/EEGMeditation-HCI02/Bisang">💻 코드 ↗</a></p>
 <details>
-<summary>구현 근거 보기</summary>
+<summary>🔎 코드로 보는 작업 기록</summary>
 <ul><li><a href="https://github.com/EEGMeditation-HCI02/Bisang/pull/40">장비 연결 구현</a></li><li><a href="https://github.com/EEGMeditation-HCI02/Bisang/commit/6ebecc9004">차트 갱신 개선</a></li></ul>
 </details>
 </td>
@@ -95,36 +95,36 @@ React·TypeScript를 중심으로 웹 서비스를 만들고, AI·뇌파·로봇
 <tr>
 <td width="50%" valign="top">
 <a href="https://aewonhaeseo-front.vercel.app"><img src="./assets/projects/mulleobollae.png" width="100%" alt="물어볼래 서비스 대표 화면" /></a>
-<h3><a href="https://github.com/LikeLionHGU/Aewonhaeseo-Front">물어볼래</a></h3>
+<h3><a href="https://github.com/LikeLionHGU/Aewonhaeseo-Front">💧 물어볼래</a></h3>
 <p>질문에서 원본 근거까지, 수질 데이터 분석</p>
 
-<p><strong>담당</strong><br />API 클라이언트 · 질문 파서 · 인증·배포 연동</p>
+<p><strong>🛠️ 제가 맡았어요</strong><br />API 클라이언트 · 질문 파서 · 인증·배포 연동</p>
 <p>질문을 분석 조건으로 변환하고, 배포 환경에서 API 대신 HTML이 반환되던 문제를 프록시와 응답 검증으로 처리했습니다.</p>
 <p><code>Vue 3 · TypeScript · Vercel · Cloudflare</code></p>
-<p><a href="https://aewonhaeseo-front.vercel.app">서비스 ↗</a> · <a href="https://github.com/LikeLionHGU/Aewonhaeseo-Front">코드 ↗</a></p>
+<p><a href="https://aewonhaeseo-front.vercel.app">🌐 서비스 ↗</a> · <a href="https://github.com/LikeLionHGU/Aewonhaeseo-Front">💻 코드 ↗</a></p>
 <details>
-<summary>구현 근거 보기</summary>
+<summary>🔎 코드로 보는 작업 기록</summary>
 <ul><li><a href="https://github.com/LikeLionHGU/Aewonhaeseo-Front/commit/34e469bee6">질문 파서 구현</a></li><li><a href="https://github.com/LikeLionHGU/Aewonhaeseo-Front/pull/7">배포 API 연동</a></li></ul>
 </details>
 </td>
 <td width="50%" valign="top">
 <a href="https://hip-apple.vercel.app"><img src="./assets/projects/farmsign.png" width="100%" alt="팜사인 서비스 대표 화면" /></a>
-<h3><a href="https://github.com/LikeLionHGU/HipApple_Front">팜사인</a></h3>
+<h3><a href="https://github.com/LikeLionHGU/HipApple_Front">🍎 팜사인</a></h3>
 <p>데이터로 판단하는 사과 출하 시점</p>
 <p><strong>🥇 경북 X AI 문제해결 해커톤 대상</strong></p>
-<p><strong>담당</strong><br />로그인·가입 분기 · 시장가격·예측 차트</p>
+<p><strong>🛠️ 제가 맡았어요</strong><br />로그인·가입 분기 · 시장가격·예측 차트</p>
 <p>신규 회원 여부에 따라 이동 경로를 분기하고, 실제 시세·7일 예측·예측 범위를 구분해 시각화했습니다.</p>
 <p><code>React · TypeScript · SVG</code></p>
-<p><a href="https://hip-apple.vercel.app">서비스 ↗</a> · <a href="https://github.com/LikeLionHGU/HipApple_Front">코드 ↗</a></p>
+<p><a href="https://hip-apple.vercel.app">🌐 서비스 ↗</a> · <a href="https://github.com/LikeLionHGU/HipApple_Front">💻 코드 ↗</a></p>
 <details>
-<summary>구현 근거 보기</summary>
+<summary>🔎 코드로 보는 작업 기록</summary>
 <ul><li><a href="https://github.com/LikeLionHGU/HipApple_Front/pull/34">로그인 후 분기</a></li><li><a href="https://github.com/LikeLionHGU/HipApple_Front/commit/b9b4ddba1d">시세 예측·차트</a></li></ul>
 </details>
 </td>
 </tr>
 </table>
 
-## 수상 · 경력
+## 🏆 수상과 발자취
 
 | 수상·선정 | 대회·사업 | 관련 프로젝트 |
 | --- | --- | --- |
@@ -134,19 +134,19 @@ React·TypeScript를 중심으로 웹 서비스를 만들고, AI·뇌파·로봇
 | 장려상 | 업스테이지 주관 AI Agent 해커톤 | — |
 | 선정 | 2026 이노테크 지원사업 | 경제의 숲 |
 
-- **ZCELL 인턴** — 한동대 교수 창업기업 · 풀스택 개발, 호스팅, DNS.
-- **멋쟁이사자처럼대학 한동대학교 14기 대표** — 프론트엔드 13기 수료.
-- **포항YMCA 지원 학습지원 플랫폼** — 학업위기청소년을 위한 시제품 제작.
-- **경제퀴즈플랫폼** — 기획·PM·디자인·퍼블리싱.
-- **군 복무** — 28사단 정보통신대대 영상음향장비운용병 만기 전역.
+- **💼 ZCELL 인턴** — 한동대 교수 창업기업 · 풀스택 개발, 호스팅, DNS.
+- **🦁 멋쟁이사자처럼대학 한동대학교 14기 대표** — 프론트엔드 13기 수료.
+- **📚 포항YMCA 지원 학습지원 플랫폼** — 학업위기청소년을 위한 시제품 제작.
+- **🌳 경제퀴즈플랫폼** — 기획·PM·디자인·퍼블리싱.
+- **🎖️ 군 복무** — 28사단 정보통신대대 영상음향장비운용병 만기 전역.
 
-## 연구
+## 🔬 새로운 연결을 탐구해요
 
-### 뇌파 데이터와 비전 AI를 이용한 로봇팔 제어
+### 🦾 뇌파와 비전 AI로 움직이는 로봇팔
 
 P300 기반 BCI로 선택한 객체를 YOLO·Depth 카메라의 3차원 좌표와 연결해 로봇팔의 Pick & Place 동작으로 이어가는 시스템입니다.
 
-**담당 — Unity 통합 제어 및 MyCobot 320 연동**
+**🛠️ 제가 맡았어요 — Unity 통합 제어 및 MyCobot 320 연동**
 
 - EEG 모듈의 객체 선택 결과와 비전 모듈의 좌표를 Unity에서 통합했습니다.
 - 소켓 통신으로 로봇팔에 좌표를 전달하고 Pick & Place 경로를 생성·실행했습니다.
@@ -160,13 +160,13 @@ P300 기반 BCI로 선택한 객체를 YOLO·Depth 카메라의 3차원 좌표�
 
 위 수치는 각 측정 구간의 결과이며, 로봇팔의 전체 작업 완료 시간을 의미하지 않습니다.
 
-**2026 한국컴퓨터종합학술대회(KCC) 논문집 공저자** · 과기정통부 SW중심대학사업·한국연구재단 지원
+**📝 2026 한국컴퓨터종합학술대회(KCC) 논문집 공저자** · 과기정통부 SW중심대학사업·한국연구재단 지원
 
 `Unity` `C#` `OpenViBE` `YOLO` `RealSense Depth` `MyCobot 320`
 
-[시연 영상](https://youtu.be/mIUh6lxgHxk)
+[🎬 시연 영상](https://youtu.be/mIUh6lxgHxk)
 
-## 개인 도구 · 기술 글
+## 🧰 작게 만들고, 꾸준히 기록해요
 
 **[히즈넷 첨부파일 이름 복구](https://github.com/lingard09/HisnetKoreanFileNameFixer)** · `JavaScript` · `Browser Extension`
 
@@ -187,13 +187,13 @@ P300 기반 BCI로 선택한 객체를 YOLO·Depth 카메라의 3차원 좌표�
 | [히즈넷 모바일 버전 만들기](https://lingard09.github.io/hisnet-mobile/) | 모바일 화면이 없는 학교 시스템 개선 |
 | [Floorp 주소창 붙여넣기 문제](https://lingard09.github.io/floorp-double-paste/) | 붙여넣기가 두 번 실행되는 브라우저 문제 조사 |
 
-## 기술
+## 💻 함께 쓰는 기술들
 
-- **주로 사용하는 기술:** JavaScript, TypeScript, React.
-- **프로젝트에서 사용한 기술:** Next.js, Vue, Unity, C#, OpenAI, Gemini, Firebase, Cloudflare, Vercel.
+- **⚡ 주로 사용하는 기술:** JavaScript, TypeScript, React.
+- **🧪 프로젝트에서 사용한 기술:** Next.js, Vue, Unity, C#, OpenAI, Gemini, Firebase, Cloudflare, Vercel.
 
 <details>
-<summary>그 밖에 사용한 언어 · 도구</summary>
+<summary>🧩 그 밖에 사용한 언어 · 도구</summary>
 
 기존 프로젝트·학습에서 사용한 기술입니다.
 
@@ -205,10 +205,10 @@ P300 기반 BCI로 선택한 객체를 YOLO·Depth 카메라의 3차원 좌표�
 
 </details>
 
-## 더 만든 것
+## 🌱 더 만든 것들
 
 <details>
-<summary>팀 프로젝트 · 기획 프로젝트 더 보기</summary>
+<summary>🗂️ 다른 프로젝트도 둘러보기</summary>
 
 | 프로젝트 | 내용 | 기술 · 역할 | 링크 |
 | --- | --- | --- | --- |
