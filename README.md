@@ -134,6 +134,7 @@ React·TypeScript로 웹 서비스를 만들어요. AI·뇌파·로봇과 웹을
 | 장려상 | 업스테이지 주관 AI Agent 해커톤 | — |
 | 선정 | 2026 이노테크 지원사업 | 경제의 숲 |
 
+- **👩‍🏫 꿈나무돌봄학교 코딩교사** — 엔트리·파이썬 코딩 수업.
 - **💼 ZCELL 인턴** — 한동대 교수 창업기업 · 풀스택 개발, 호스팅, DNS.
 - **🦁 멋쟁이사자처럼대학 한동대학교 14기 대표** — 프론트엔드 13기 수료.
 - **📚 포항YMCA 지원 학습지원 플랫폼** — 학업위기청소년을 위한 시제품 제작.
@@ -168,18 +169,19 @@ P300 기반 BCI로 선택한 객체를 YOLO·Depth 카메라의 3차원 좌표�
 
 ## 🧰 작게 만들고, 꾸준히 기록해요
 
-**[히즈넷 첨부파일 이름 복구](https://github.com/lingard09/HisnetKoreanFileNameFixer)** · `JavaScript` · `Browser Extension`
+최근에는 문서 작성과 원어 학습처럼, 직접 필요했던 도구들을 만들고 있어요.
 
-학교 첨부파일의 깨진 한글 이름을 다운로드 시점에 복구하는 확장입니다. Chromium 계열과 Firefox를 지원합니다. [만든 과정](https://lingard09.github.io/hisnet-filename-fixer/)
+| 프로젝트 | 이렇게 쓰여요 | 기술 · 링크 |
+| --- | --- | --- |
+| 📖 **원문 · 성경 원어 검색** | 성경 원문·발음·용례 검색부터 간격 반복 단어 학습까지 | `JavaScript` `Cloudflare Workers` · [서비스](https://lingard09.github.io/bible-original/) · [코드](https://github.com/lingard09/bible-original) |
+| 📄 **검수확인서 만들기** | 내용과 증빙사진을 넣으면 원본 양식에 맞는 HWPX 문서를 브라우저에서 생성 | `JavaScript` `JSZip` `Python` · [코드](https://github.com/lingard09/hwpx-inspection-form) |
+| 🎮 **오버워치 영웅 관리** | 영웅 등록·조회 웹 화면과 CRUD·이름 검색 REST API를 만든 학습 프로젝트 | `Java` `Spring Boot` `Thymeleaf` · [웹 코드](https://github.com/lingard09/my_hero_webui) · [API 코드](https://github.com/lingard09/my_heroapi_project) |
+| 🧩 **히즈넷 첨부파일 이름 복구** | 다운로드할 때 깨지는 한글 파일명을 복구하는 브라우저 확장 | `JavaScript` · [코드](https://github.com/lingard09/HisnetKoreanFileNameFixer) · [만든 과정](https://lingard09.github.io/hisnet-filename-fixer/) |
+| 📱 **히즈넷 모바일** | 학교 공지 목록을 모바일에서 읽기 좋게 바꾸는 북마클릿 | `React` · [코드](https://github.com/lingard09/hisnet-mobile) · [만든 과정](https://lingard09.github.io/hisnet-mobile/) |
+| 🎨 **PL2 웹사이트** | 빌드 도구 없이 제작한 크리에이티브 스튜디오 웹사이트 | `HTML` `CSS` `JavaScript` · [서비스](https://lingard09.github.io/pl2-website/) · [코드](https://github.com/lingard09/pl2-website) |
+| 📈 **로지스틱 성장 시각화** | 성장·수확 모델과 분기를 탐색하는 단일 HTML 도구 | `HTML` · [서비스](https://lingard09.github.io/biomath-logistic-2d/) · [코드](https://github.com/lingard09/biomath-logistic-2d) |
 
-**[히즈넷 모바일](https://github.com/lingard09/hisnet-mobile)** · `React`
-데스크톱 화면이 축소되어 보이던 학교 공지 목록을 모바일에서 읽기 좋게 바꾸는 북마클릿입니다. [만든 과정](https://lingard09.github.io/hisnet-mobile/)
-
-**[PL2 웹사이트](https://github.com/lingard09/pl2-website)** · `HTML` `CSS` `JavaScript`
-빌드 도구 없이 제작한 크리에이티브 스튜디오 정적 웹사이트입니다. [서비스](https://lingard09.github.io/pl2-website/)
-
-**[로지스틱 성장 시각화](https://github.com/lingard09/biomath-logistic-2d)** · `HTML`
-로지스틱 성장·수확 모델과 분기를 탐색하는 도구로, 의존성 없는 단일 HTML 파일로 동작합니다. [서비스](https://lingard09.github.io/biomath-logistic-2d/)
+**✍️ 만들며 남긴 기록**
 
 | 기술 글 | 다룬 문제 |
 | --- | --- |
@@ -189,19 +191,58 @@ P300 기반 BCI로 선택한 객체를 YOLO·Depth 카메라의 3차원 좌표�
 
 ## 💻 함께 쓰는 기술들
 
-- **⚡ 주로 사용하는 기술:** JavaScript, TypeScript, React.
-- **🧪 프로젝트에서 사용한 기술:** Next.js, Vue, Unity, C#, OpenAI, Gemini, Firebase, Cloudflare, Vercel.
+**⚡ 자주 쓰는 언어와 프론트엔드**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,html,css&amp;theme=dark&amp;perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&amp;theme=light&amp;perline=7" alt="JavaScript, TypeScript, React, HTML, CSS" />
+</picture>
+
+**🧪 프로젝트에서 함께 써봤어요**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,vue,firebase,cloudflare,vercel,unity,cs&amp;theme=dark&amp;perline=7" />
+  <img src="https://skillicons.dev/icons?i=nextjs,vue,firebase,cloudflare,vercel,unity,cs&amp;theme=light&amp;perline=7" alt="Next.js, Vue, Firebase, Cloudflare, Vercel, Unity, C#" />
+</picture>
 
 <details>
-<summary>🧩 그 밖에 사용한 언어 · 도구</summary>
+<summary>🧩 더 써본 언어와 도구 펼치기</summary>
 
-기존 프로젝트·학습에서 사용한 기술입니다.
+**언어 · 백엔드 · 데이터**
 
-- **언어:** Java, Python, Swift.
-- **웹·데이터:** Vite, Electron, Spring Boot, FastAPI, Node.js, PostgreSQL, Supabase.
-- **배포·운영:** AWS, Docker, GitHub Actions.
-- **AI·자동화:** Claude, OpenAI, Ollama, n8n.
-- **연구·디자인:** EEG(DSI-24), MATLAB, SWLDA, ROS2, Figma.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,py,swift,spring,fastapi,nodejs,postgres,supabase&amp;theme=dark&amp;perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,py,swift,spring,fastapi,nodejs,postgres,supabase&amp;theme=light&amp;perline=7" alt="Java, Python, Swift, Spring Boot, FastAPI, Node.js, PostgreSQL, Supabase" />
+</picture>
+
+**빌드 · 배포 · 운영**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vite,electron,aws,docker,githubactions&amp;theme=dark&amp;perline=7" />
+  <img src="https://skillicons.dev/icons?i=vite,electron,aws,docker,githubactions&amp;theme=light&amp;perline=7" alt="Vite, Electron, AWS, Docker, GitHub Actions" />
+</picture>
+
+**AI · 자동화**
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&amp;logo=claude&amp;logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Ollama-333333?style=flat-square&amp;logo=ollama&amp;logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
+</p>
+
+**연구 · 디자인**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=matlab,ros,figma&amp;theme=dark&amp;perline=7" />
+  <img src="https://skillicons.dev/icons?i=matlab,ros,figma&amp;theme=light&amp;perline=7" alt="MATLAB, ROS2, Figma" />
+</picture>
+
+<p>
+<img src="https://img.shields.io/badge/EEG%20%C2%B7%20DSI-24-667EEA?style=flat-square" alt="EEG · DSI-24" />
+<img src="https://img.shields.io/badge/SWLDA-764BA2?style=flat-square" alt="SWLDA" />
+</p>
 
 </details>
 
