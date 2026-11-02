@@ -122,6 +122,24 @@ React·TypeScript로 웹 서비스를 만들어요. AI·뇌파·로봇과 웹을
 </details>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/SmartTunaNet/tuna-detection-model"><img src="./assets/projects/tuna-kit.png" width="100%" alt="참치 탐지 모델 검증 조건별 재현율 차트" /></a>
+<h3><a href="https://github.com/SmartTunaNet/tuna-detection-model">🐟 참다랑어 정치망 스마트 키트</a></h3>
+<p>쿼터에 닿으면 정치망 입구를 막는 참치 탐지·카운트</p>
+<p><strong>🏅 지역 문제해결 아이디어톤 장려상</strong></p>
+<p><strong>🛠️ 제가 맡았어요</strong><br />데이터 수집·라벨링 · 탐지 모델 학습·평가 · 영상 카운트</p>
+<p>공개 데이터만으로 만든 개념 검증 단계로, 학습에 쓰지 않은 탁한 물·어군 사진에서 참치 재현율 37.3%입니다. 맑은 물 수치가 부풀려진 이유와 오인 사례까지 함께 기록했습니다.</p>
+<p><code>Python · YOLO11 · ByteTrack · Label Studio</code></p>
+<p><a href="https://github.com/SmartTunaNet/tuna-detection-model">💻 코드 ↗</a></p>
+<details>
+<summary>🔎 코드로 보는 작업 기록</summary>
+<ul><li><a href="https://github.com/SmartTunaNet/tuna-detection-model/blob/main/scripts/eval_recall.py">판정 기준별 재현율 평가</a></li><li><a href="https://github.com/SmartTunaNet/tuna-detection-model/blob/main/scripts/count_video.py">영상 카운트·입구 차단 신호</a></li></ul>
+</details>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ## 🏆 수상과 발자취
@@ -132,6 +150,7 @@ React·TypeScript로 웹 서비스를 만들어요. AI·뇌파·로봇과 웹을
 | 대상 | 경북 X AI 문제해결 해커톤 · 한동대 산학협력단 | 팜사인 |
 | 최우수상 | 2025 한동대 SW 페스티벌 · SW 전공부문 | 모보까 |
 | 장려상 | 업스테이지 주관 AI Agent 해커톤 | — |
+| 장려상 | 2026 지역 문제해결 아이디어톤 · 경북창조경제혁신센터 | [참다랑어 정치망 스마트 키트](https://github.com/SmartTunaNet/tuna-detection-model) |
 | 선정 | 2026 이노테크 지원사업 | 경제의 숲 |
 
 - **👩‍🏫 꿈나무돌봄학교 코딩교사** — 엔트리·파이썬 코딩 수업.
