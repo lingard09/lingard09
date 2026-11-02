@@ -124,7 +124,7 @@ React·TypeScript로 웹 서비스를 만들어요. AI·뇌파·로봇과 웹을
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/SmartTunaNet/tuna-detection-model"><img src="./assets/projects/tuna-kit.png" width="100%" alt="참치 탐지 모델 검증 조건별 재현율 차트" /></a>
+<a href="https://github.com/SmartTunaNet/tuna-detection-model"><img src="./assets/projects/tuna-kit.png" width="100%" alt="참치 떼 영상에서 참치를 세어 쿼터 20에 입구 차단을 표시한 시연 화면" /></a>
 <h3><a href="https://github.com/SmartTunaNet/tuna-detection-model">🐟 참다랑어 정치망 스마트 키트</a></h3>
 <p>쿼터에 닿으면 정치망 입구를 막는 참치 탐지·카운트</p>
 <p><strong>🏅 지역 문제해결 아이디어톤 장려상</strong></p>
